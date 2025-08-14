@@ -28,7 +28,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-2️⃣ API Key (Optional)
+
+### 2️⃣ API Key (Optional)
 If you want live headlines from NewsAPI:
 
 Sign up at newsapi.org/register to get a free API key.
