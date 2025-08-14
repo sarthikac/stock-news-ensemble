@@ -83,5 +83,4 @@ Directional Accuracy: ~68%
 Backtested Strategy: Maintained profitability with realistic transaction costs under rolling-window simulation.
 
 ### Disclaimer
-This project is for educational and research purposes only.
-It is not financial advice. Trading in financial markets involves significant risk.
+(for educational purposes only, not financial advice!)
